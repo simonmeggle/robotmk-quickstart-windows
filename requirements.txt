@@ -1,0 +1,5 @@
+robotframework
+webdrivermanager
+selenium
+robotframework-seleniumlibrary
+pyyaml
